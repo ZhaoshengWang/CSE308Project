@@ -1,4 +1,4 @@
-<!--
+<!--  xxxxxxxxxxxxxxxx
   Copyright (c) 2010, Oracle. All rights reserved.
 
   Redistribution and use in source and binary forms, with or without
@@ -49,7 +49,7 @@
         <tr><td>FirstName</td><td><input type="text" id = "firstName" name="firstName" /></td></tr>
         <tr><td>LastName</td><td><input type="text" id = "lastName" name="lastName" /></td></tr>
     </table>
-    <input type="submit" id="CreateRecord" value="CreateRecord" />
+    <input type="submit" id="CreateRecssord" value="CreatweqeRecord" />
     </form>
 <a href="ListPerson"><strong>Go to List of persons</strong></a>
 </body>
